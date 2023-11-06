@@ -8,7 +8,7 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo as follows:
 
 ```console
-helm repo add helops https://helops.github.io/helm-charts
+helm repo add helops https://helops-io.github.io/helm-charts
 ```
 
 You can then run `helm search repo helops` to see the charts.
